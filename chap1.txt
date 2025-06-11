@@ -1,1 +1,0 @@
-this is a chapter 1, of git version control.
